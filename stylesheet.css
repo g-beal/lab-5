@@ -39,6 +39,11 @@ th{
 body{
   background-color: black;
   background-image: url("space.png");
+  color: white;
+  font-weight: bold;
+  font-family: 'Animatic', sans-serif;
+  text-align: center;
+  margin: 30px;
 }
 
 
