@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;1,200&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');)
 
 body{
   background-color: black;
@@ -28,10 +28,6 @@ th{
   text-align: center;
   vertical-align: middle;
 } 
-
-.planet{
-  font-size: large;
-}
 
 .planetimg{
   height: 100px;
