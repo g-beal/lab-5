@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;1,200&display=swap')
-  
+
+body{
+  background-color: black;
+  background-image: url("space.png");
+  color: white;
+  font-weight: bold;
+  font-family: 'Animatic', sans-serif;
+  text-align: center;
+  margin: 30px;
+}
+
 td{  
   color: white;
   font-size: medium;
@@ -28,15 +38,6 @@ th{
   width: auto;
 }
     
-body{
-  background-color: black;
-  background-image: url("space.png");
-  color: white;
-  font-weight: bold;
-  font-family: 'Animatic', sans-serif;
-  text-align: center;
-  margin: 30px;
-}
 
 
     
