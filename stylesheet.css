@@ -12,6 +12,8 @@ td{
   font-size: medium;
   font-family: 'Raleway', sans-serif;
   width: 10%;
+  text-align: center;
+  vertical-align: middle;
 } 
 
 th{  
@@ -20,6 +22,8 @@ th{
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
   width: 10%;
+  text-align: center;
+  vertical-align: middle;
 } 
 
 .planet{
