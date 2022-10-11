@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;1,200&display=swap')
   
-h1 { 
-  color: white;
-  font-weight: bold;
-  font-family: 'Animatic', sans-serif;
-  text-align: center;
-  margin: 30px;
+
+
+h1 {
+  color: #DDDDFF;
+  font-size: 60px;
+  text-align: center
 }
 
 td{  
