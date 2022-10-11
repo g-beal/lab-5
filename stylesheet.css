@@ -7,10 +7,17 @@ h1{
   font-family: 'Raleway', sans-serif;
 }
 
-p{  
+p, td{  
   color: white;
   font-size: medium;
-  font-family: 
+  font-family: 'Raleway', sans-serif;
+} 
+
+th{  
+  color: white;
+  font-size: medium;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
 } 
     
 body{
