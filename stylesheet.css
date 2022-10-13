@@ -3,7 +3,7 @@ body{
   background-image: url("space.png");
   color: white;
   font-weight: bold;
-  font-family: Animatic, sans-serif;
+  font-family: Amatic, sans-serif;
   text-align: center;
   margin: 30px;
 }
@@ -11,7 +11,7 @@ body{
 td{  
   color: white;
   font-size: medium;
-  font-family: Animatic, sans-serif;
+  font-family: Amatic, sans-serif;
   width: 10%;
   text-align: center;
   vertical-align: middle;
@@ -20,7 +20,7 @@ td{
 th{  
   color: white;
   font-size: large;
-  font-family: Animatic, sans-serif;
+  font-family: Amatic, sans-serif;
   font-weight: bold;
   width: 10%;
   text-align: center;
