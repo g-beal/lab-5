@@ -3,28 +3,38 @@ body{
   background-image: url("space.png");
   color: white;
   font-weight: bold;
-  font-family: Amatic SC, cursive;
+  font-family: Amatic+SC, cursive;
   text-align: center;
-  margin: 30px;
+}
+
+header{
+  color: white;
+  font-size: large;
+  font-family: Amatic+SC, cursive;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: middle;
 }
 
 td{  
   color: white;
   font-size: medium;
-  font-family: Amatic SC, cursive;
+  font-family: Amatic+SC, cursive;
   width: 10%;
   text-align: center;
   vertical-align: middle;
 } 
+
 th{  
   color: white;
   font-size: large;
-  font-family: Amatic SC, cursive;
+  font-family: Amatic+SC, cursive;
   font-weight: bold;
   width: 10%;
   text-align: center;
   vertical-align: middle;
 } 
+
 .planetimg{
   height: 100px;
   width: auto;
