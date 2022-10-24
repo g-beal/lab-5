@@ -1,18 +1,25 @@
 body{
   background-color: black;
-  background-image: url("space.png");
-  background-repeat: repeat-y;
-  background-size: cover;
+  background-image: url("image/space.png");
   color: white;
-  font-family: Amatic+SC, cursive;
   text-align: center;
-  margin: 30px;
+  margin: 10%;
+  font-family: 'Fredoka One', cursive;
 }
 
+h1{
+  color: white;
+  font-size: 315%;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  margin: 50px;
+  vertical-align: middle;
+
 }
+
 td{
   font-size: small;
-  font-family: Amatic+SC, cursive;
   width: 200px;
   vertical-align: middle;
 }
@@ -27,14 +34,4 @@ th{
 .planetimg{
   height: 100px;
   width: auto;
-}
-
-.header1{
-  color: white;
-  font-size: large;
-  font-family: Amatic+SC, cursive;
-  font-weight: bold;
-  text-align: center;
-  margin: 50px;
-  vertical-align: middle;
 }
